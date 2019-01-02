@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-size: 40px;
+}
